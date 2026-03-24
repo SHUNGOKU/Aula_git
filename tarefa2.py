@@ -1,0 +1,1 @@
+print ("tarefa do curso de ia")
